@@ -1,0 +1,89 @@
+[
+    {
+        "id": "thapaserialnoa",
+        "name": "iphone x",
+        "company": "apple",
+        "price": 6000000,
+        "category": "mobile",
+        "featured": true
+    },
+    {
+        "id": "thapaserialnob",
+        "name": "samsung s20",
+        "company": "samsung",
+        "price": 5000000,
+        "category": "mobile"
+    },
+    {
+        "id": "thapaserialnoc",
+        "name": "Dell Series",
+        "company": "dell",
+        "price": 600000,
+        "category": "laptop"
+    },
+    {
+        "id": "thapaserialnod",
+        "name": "Nokia 420",
+        "company": "nokia",
+        "price": 12599,
+        "category": "mobile"
+    },
+    {
+        "id": "thapaserialnoe",
+        "name": "Mac Pc",
+        "company": "apple",
+        "price": 4000099,
+        "category": "computer"
+    },
+    {
+        "id": "thapaserialnof",
+        "name": "Macbook Pro",
+        "company": "apple",
+        "price": 42999,
+        "category": "laptop"
+    },
+    {
+        "id": "thapaserialnog",
+        "name": "Asus gseries",
+        "company": "asus",
+        "price": 23999,
+        "category": "laptop"
+    },
+    {
+        "id": "thapaserialnoh",
+        "name": "Accessories",
+        "price": 1099999,
+        "company": "lenova",
+        "category": "accessories",
+        "featured": true
+    },
+    {
+        "id": "thapaserialnoi",
+        "name": "Iwatch",
+        "price": 39999,
+        "company": "apple",
+        "category": "watch"
+    },
+    {
+        "id": "thapaserialnoj",
+        "name": "user need",
+        "company": "apple",
+        "price": 300099,
+        "category": "accessories"
+    },
+    {
+        "id": "thapaserialnok",
+        "name": "rolex premium",
+        "company": "rolex",
+        "price": 999999,
+        "category": "watch"
+    },
+    {
+        "id": "thapaserialnol",
+        "name": "galaxy w20",
+        "price": 311999,
+        "company": "samsung",
+        "category": "watch",
+        "featured": true
+    }
+]
